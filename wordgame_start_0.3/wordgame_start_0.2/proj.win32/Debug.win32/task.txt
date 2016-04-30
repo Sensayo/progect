@@ -1,0 +1,10 @@
+Num: 9;
+ ang_r anger e 0 0
+ bea_h beach c 0 0
+ co_umn column l 0 0
+ bi_d bird r 0 0
+ integra_ion integration t 0 0
+ fin_sh finish i 0 0
+ pla_t plant n 0 0
+ _ebra zebra z 0 0
+ ans_er answer w 0 0
